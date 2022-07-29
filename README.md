@@ -1,8 +1,8 @@
 # GITHUB INDICATORS
 
-![GitHub Repo stars](https://img.shields.io/github/stars/cavidsuleyman/Ballon-Game?style=for-the-badge)
-![GitHub watchers](https://img.shields.io/github/watchers/cavidsuleyman/Ballon-Game?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/cavidsuleyman/Ballon-Game?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/IlkinLion/Ballon-Game?style=for-the-badge)
+![GitHub watchers](https://img.shields.io/github/watchers/IlkinLion/Ballon-Game?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/IlkinLion/Ballon-Game?style=for-the-badge)
 
   # Ballon-Game
 
